@@ -30,7 +30,7 @@ Grinding my new public acc
 
 
 ### 🧊 - Learning languages
-<details>
+
 <p align="centre">
     <img alt="HTML" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white&style=for-the-badge">
 </a>
@@ -41,21 +41,22 @@ Grinding my new public acc
 </a>
 
 </p>
+
+
+
+
+
 </details>
-
-
-
-
-
 ```diff
 Ubisoft 💖
 
 👤 >> Young developper that is currently learning  offensive Security.
 //////
-📧 >> kakazen#1580
+📧 >> @capabl1
 //////
 👔 >> Elyze
 ```
+</details>
 #
 <h1 align="center">TOOLS</h1>
 
