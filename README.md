@@ -10,12 +10,18 @@
 Grinding my new public acc
 
 
-### ❄️ - Mes langages de programmation.
+### ❄️ - My prog languages.
 <details>
 <p align="centre">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
 </a>
-    <img alt="Python" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge">
+</a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+</a>
+    <img alt="JavaScript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 </details>
 
@@ -23,7 +29,7 @@ Grinding my new public acc
 
 
 
-### 🧊 - Language(s) de programmation en cours d'apprentissage
+### 🧊 - Learning languages
 <details>
 <p align="centre">
     <img alt="HTML" src="https://img.shields.io/badge/-Ruby-CC342D?logo=Ruby&logoColor=white&style=for-the-badge">
