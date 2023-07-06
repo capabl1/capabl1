@@ -11,7 +11,7 @@ Grinding my new public acc
 
 
 ### ❄️ - My prog languages.
-<details>
+
 <p align="centre">
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white&style=for-the-badge">
 </a>
@@ -23,7 +23,7 @@ Grinding my new public acc
 </a>
     <img alt="JavaScript" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
-</details>
+
 
 
 
